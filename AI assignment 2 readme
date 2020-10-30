@@ -1,6 +1,0 @@
-readme.md for ai intro
-
-We picked logistic regression as our preffered method given that the desired output is numerical.
-This method also allows for multiple depentant variable, which is beneficial to a use case such as ours, as there are many factors that can influence the amount of ruters passangers. For instance we assume more people utilzie the transit system on a date such as the 17th of may, or that there will be less passangers during the height of summer.
-The type of bus may also be a factor, as well as time of day and the direction of the line. One would for instance assume that more people are taking the bus towards the city during the morning than people leaving the city.
-Given that a strenght of the algorithm is explaining and understanding the relationships wbetween variables it seemed the most suitable for our use case. 
